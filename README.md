@@ -1,8 +1,8 @@
 <h1 align=center>Welcome to Mohit Bhavsar's Github</h1>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavsarmohit&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
     
  <img src="https://github-readme-stats.vercel.app/api?username=bhavsarmohit&show_icons=true&locale=en&theme=tokyonight" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavsarmohit&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+ 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=bhavsarmohit&&theme=tokyonight" />
 
 
